@@ -1,0 +1,6 @@
+[package]
+name = "hello_rocket"
+version = "0.1.0"
+authors = ["harrysudana <harrysudana@gmail.com>"]
+
+[dependencies]
